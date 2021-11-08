@@ -1,0 +1,22 @@
+input{
+  padding: 5px;
+  margin-right: 5px;
+  margin-left: 5px
+}
+div {
+  padding: 10px;
+}
+label,button {
+  padding: 5px;
+}
+
+.container {
+  padding: 30px;
+}
+.delete,.edit{
+  text-decoration: none;
+  color: #333;
+}
+.editForm{
+  display: inline-block;
+}
